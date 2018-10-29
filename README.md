@@ -10,7 +10,7 @@
 5. Print bilangan terbesar dari semua bilangan yang di inputkan.
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan1/Flowchart1.png)
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum3/master/Latihan1/FLOWCHART.png)
 
 **code program lengkap:**
 ```c++
@@ -39,7 +39,7 @@ int main() {
 ```
 
 hasilnya:
-![ing]
+![ing](https://raw.githubusercontent.com/Inkamanik/Praktikum3/master/Latihan1/Screenshot1.png)
 
 ## Latihan2.cpp : 
 
@@ -60,7 +60,7 @@ hasilnya:
 14. Lalu, END.
 
 **Flowchart Program**
-![Flowchart]
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum3/master/Latihan2/FLOWCHART2.png)
 
 **code program lengkap:**
 ```c++
@@ -98,6 +98,7 @@ int main(){
 ```
 
 hasilnya :
+![ing](https://raw.githubusercontent.com/Inkamanik/Praktikum3/master/Latihan2/Screenshot2.png)
 
 ## Latihan3.cpp : Untuk Menginput 3 Buah Bilangan
 
@@ -108,7 +109,7 @@ hasilnya :
 4. Mencetak hasil kelayar dengan nilai tengah
 
 **Flowchart Program**
-![Flowchart]
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum3/master/Latihan3/FLOWCHART3.png)
 
 **code program lengkap:**
 ```c++
@@ -145,3 +146,5 @@ int main() {
     }
 }
 ```
+hasilnya :
+![ing](https://raw.githubusercontent.com/Inkamanik/Praktikum3/master/Latihan3/Screenshoot3.png)
